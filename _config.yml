@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Raphael Sofaer - CS PhD student"
 title_separator          : "-"
 name                     : &name "Raphael Sofaer"
 description              : &description "Formal verification / Software reliability"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Raphael Sofaer"
-  avatar           : "profile.png"
+  avatar           : "https://avatars.githubusercontent.com/u/212750?v=4"
   bio              : "PhD student at Columbia University Software Systems Lab"
   location         : "New York City"
   employer         :
